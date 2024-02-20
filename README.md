@@ -1,5 +1,5 @@
 # Kado
--Flower code from: https://codepen.io/apa/pen/ditt
+-Flower code from: https://codepen.io/apa/pen/di
 
 
 # Description
